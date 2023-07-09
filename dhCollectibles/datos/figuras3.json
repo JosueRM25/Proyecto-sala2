@@ -1,0 +1,20 @@
+[
+    {
+      "marca": "StarWars",
+      "nombre": "Skywalker",
+      "precio": 15000,
+      "stock": 23
+    },
+    {
+      "marca": "StarWars",
+      "nombre": "Luke",
+      "precio": 25000,
+      "stock": 18
+    },
+    {
+      "marca": "StarWars",
+      "nombre": "Chewbacca",
+      "precio": 60000,
+      "stock": 5
+    }
+  ]

@@ -1,0 +1,40 @@
+/*Marca (Fierce, Shifter, Olmo, Battle, TopMega,SLP, Halley, Fixie, etc ).
+b. Modelo (FM18SI29AM211, FM18F29AM210, Regal, Sunshine, Techno,
+Ruta).
+c. Rodado (16, 26, 28, 29 ).
+d. Año de fabricación (2019, 2020, 2021, 2022, etc);
+e. Color (Celeste, negro, gris, amarillo, rosa, rojo, verde, Naranja, etc).
+f. Peso en Kilogramos(13, 15, 16, 17 );
+g. Tipo (Montañera, Paseo, Retro, Triatlón ).
+h. Precio (Coloque el precio que usted desee).
+i. Vendida (si ó no).
+*/
+[
+    {
+    "id" : 1,
+    "marca" : "Fierce",
+    "modelo" : "FM18SI29AM211",
+    "rodado" : "16",
+    "anio" : "2019",
+    "color": "Celeste",
+    "peso" : "13",
+    "tipo" : "Montañera",
+    "precio" : 100000,
+    "vendida" : "no",
+    }
+    ]
+
+[
+     {
+    "id" : 2,
+    "marca" : "Shifter",
+    "modelo" : "FM18F29AM210",
+     "rodado" : "2616",
+    "anio" : "2020",
+    "color": "negro",
+    "peso" : "15",
+    "tipo" : "Paseo",
+    "precio" : 120000,
+    "vendida" : "si",
+     }
+     ]
